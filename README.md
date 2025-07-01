@@ -10,6 +10,7 @@
 🚀 Embarking on a superstar ⭐ journey!
 
 - ❤️ Passionate about problem-solving through code.
+- 🤖 Enthusiastic about Competitive Programming.
 - 💬 Ask me about **Django , FastAPI**
 - 🌱 currently learning about **Devops**
 - 👀 Open to volunteering roles and contributing to open source.
