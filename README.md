@@ -14,7 +14,7 @@
 - 💬 Ask me about **Django , FastAPI**
 - 🌱 currently learning about **Devops**
 - 👀 Open to volunteering roles and contributing to open source.
-- ⚡ Fun fact: When I'm not coding, I'm help others to code.
+- ⚡ Fun fact: When I'm not coding, I research the next big project.
 
 ## 🧠 Coding Platforms
 
