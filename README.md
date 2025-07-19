@@ -3,7 +3,7 @@
 <a href="mailto:rudranarayans10@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/rudra404/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
 
-<!-- <a href="https://dhruvabhat.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a> &nbsp; -->
+<a href="https://rudra404.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a> &nbsp;
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=RudraNarayan94&label=Profile%20views&color=0e75b6&style=flat" alt="RudraNarayan94" /> </p> -->
 
