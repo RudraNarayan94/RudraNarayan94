@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/rudra404/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="https://rudra404.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/website-2D9FD6?style=for-the-badge&logo=About.me&logoColor=white"/></a> &nbsp;
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=RudraNarayan94&label=Profile%20views&color=0e75b6&style=flat" alt="RudraNarayan94" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RudraNarayan94&label=Profile%20views&color=0e75b6&style=flat" alt="RudraNarayan94" /> </p>
 
 🚀 Embarking on a superstar ⭐ journey!
 
@@ -39,7 +39,7 @@
 
 ## 🧩 My Tech Stack
 
-[![Technologies](https://skillicons.dev/icons?i=appwrite,aws,bash,django,docker,fastapi,ai,kubernetes,mongodb,mysql,nginx,postgres,react,redis,vite,redux)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=appwrite,aws,bash,django,docker,fastapi,kubernetes,mongodb,mysql,nginx,postgres,react,redis,vite,redux)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudraNarayan94&layout=compact&theme=tokyonight)](https://github.com/RudraNarayan94/github-readme-stats)
 
