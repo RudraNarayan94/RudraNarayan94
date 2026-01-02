@@ -6,12 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RudraNarayan94&label=Profile%20views&color=0e75b6&style=flat" alt="RudraNarayan94" /> </p>
 
-🚀 Embarking on a superstar ⭐ journey!
-
 - ❤️ Passionate about problem-solving through code.
 - 🤖 Enthusiastic about Competitive Programming.
-- 💬 Ask me about **Django , FastAPI**
-- 🌱 currently learning about **Devops**
+- 💬 Ask me about **Backend**
+- 🌱 currently building about **Fourio**
 - 👀 Open to volunteering roles and contributing to open source.
 - ⚡ Fun fact: When I'm not coding, I research the next big project.
 
