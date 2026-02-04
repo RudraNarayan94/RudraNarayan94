@@ -11,7 +11,7 @@
 - 💬 Ask me about **Backend**
 - 🌱 currently building **Fourio**
 - 👀 Open to volunteering roles and contributing to open source.
-- ⚡ Fun fact: When I'm not coding, I research the next big project.
+<!-- - ⚡ Fun fact: When I'm not coding, I research the next big project. -->
 
 ## 🧠 Coding Platforms
 
