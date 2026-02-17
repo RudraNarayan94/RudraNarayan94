@@ -11,7 +11,7 @@
 - 💬 Ask me about **Backend**
 - 🌱 currently building **Fourio**
 - 👀 Open to volunteering roles and contributing to open source.
-<!-- - ⚡ Fun fact: When I'm not coding, I research the next big project. -->
+- ⚡ Exploring DeepLearning & Agentic AI.
 
 ## 🧠 Coding Platforms
 
@@ -37,12 +37,12 @@
 
 ## 🧩 My Tech Stack
 
-[![Technologies](https://skillicons.dev/icons?i=appwrite,aws,bash,django,docker,fastapi,kubernetes,mongodb,mysql,nginx,postgres,react,redis,vite,redux)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=django,docker,fastapi,aws,kubernetes,mongodb,mysql,azure,postgres,react,redis,vite,redux)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudraNarayan94&layout=compact&theme=tokyonight)](https://github.com/RudraNarayan94/github-readme-stats)
-
-| [![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=RudraNarayan94&show_icons=true&theme=tokyonight)](https://github.com/RudraNarayan94/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com?user=RudraNarayan94&theme=tokyonight)](https://git.io/streak-stats) |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------: |
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudraNarayan94&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--| [![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=RudraNarayan94&show_icons=true&theme=tokyonight)](https://github.com/RudraNarayan94/github-readme-stats) |-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=RudraNarayan94&theme=tokyonight)](https://git.io/streak-stats) 
+<!--| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------: |-->
 
 <!-- <img src="https://raw.githubusercontent.com/Nikunj-Khinchi/Nikunj-Khinchi/output/snake.svg" alt="Snake animation" /> -->
 
