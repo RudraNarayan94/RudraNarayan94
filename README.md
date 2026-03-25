@@ -11,7 +11,7 @@
 - 💬 Ask me about **Backend**
 - 🌱 currently building **Fourio**
 - 👀 Open to volunteering roles and contributing to open source.
-- ⚡ Exploring DeepLearning & Agentic AI.
+- ⚡ Exploring DeepLearning & Generative AI.
 
 ## 🧠 Coding Platforms
 
