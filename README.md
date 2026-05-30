@@ -8,8 +8,8 @@
 
 - ❤️ Passionate about problem-solving through code.
 - 🤖 Enthusiastic about Competitive Programming.
-- 💬 Ask me about **Backend**
-- 🌱 currently building **Fourio**
+- 💬 Ask me about **Backend and DevOps**
+- 🌱 currently building **Tiny-Link**
 - 👀 Open to volunteering roles and contributing to open source.
 - ⚡ Exploring DeepLearning & Generative AI.
 
