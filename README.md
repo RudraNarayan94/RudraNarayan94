@@ -21,7 +21,7 @@
 <a href="https://www.geeksforgeeks.org/user/rudranarqq7f/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> &nbsp; -->
 
 <a href="https://leetcode.com/u/rudra404/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rudra404" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rudranarqq7f/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rudranarqq7f" height="30" width="40" /></a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/rudranarqq7f/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rudranarqq7f" height="30" width="40" /></a> -->
 
 </p>
 
